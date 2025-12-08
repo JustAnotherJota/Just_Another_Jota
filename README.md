@@ -27,9 +27,10 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-bernardino-75931019a/)
 
-![Jotabtw GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherjota&theme=tokyonight&show_icons=true)
+![JustAnotherJota GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherjota&theme=tokyonight&show_icons=true)
 
 ## Projetos:
+- [API - Node](https://github.com/JustAnotherJota/API_Itau_Pratica) | | [Consumindo em React](https://github.com/JustAnotherJota/API_Itau_Desafio_Front) - Desafio Itaú realizado para estudo, comunicação entre front e back
 - [RakingBooks](https://github.com/jotabtw/RatingBooks) .Net 6.0 - Sistema de Livros para avaliar e agendar um compromisso para continuar a leitura
 - [appMusic](https://github.com/jotabtw/appMusic/) .Net Framework 4.7.2 - Criação de uma Web API (CRUD) aplicando conceitos de SQL Server e ASP.NET
 - [Requisição de Médicos e Clientes](https://github.com/jotabtw/Sistema_Cliente_Medico_Angular/tree/main) Angular - Criação de uma página web requisitando as funções de uma API
@@ -53,14 +54,11 @@
     <h3>Programming Languages</h3>
       <img align="center" alt="C#" height="40" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"> |
       <img align="center" alt="JS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> |
-      <img align="center" alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
-      <img align="center" alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
->
    </div>
 
   <div style="flex-basis: 48%;">
     <h3>Frameworks</h3>
-      <img align="center" alt="Angular" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"> |
+      <img align="center" alt="Angular" height="45" width="45" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png"> |
       <img align="center" alt=".NetFramework" height="45" width="45" src="https://www.instalki.pl/wp-content/uploads/program/icons/unnamed-6.png"> |
       <img align="center" alt=".NetCore" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"> 
     </div>
